@@ -1,4 +1,4 @@
-package minimum
+package tutorial
 
 import (
 	"github.com/hashicorp/terraform/helper/schema"
