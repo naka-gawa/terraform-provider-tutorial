@@ -29,3 +29,4 @@ override.tf.json
 # example: *tfplan*
 
 terraform-provider-tutorial
+terraform-provider-tutorial_v0.1.0_x4
