@@ -1,4 +1,4 @@
-PLUGIN_NAME := terraform-provider-tutorial
+PLUGIN_NAME := terraform-provider-tutorial_v0.1.0_x4
 
 .PHONY: install
 install:
